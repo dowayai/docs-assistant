@@ -1,0 +1,2 @@
+{"id": "q1", "category": "factual", "question": "Приклад питання", "gold_source": "doc.md", "gold_answer": "Приклад відповіді"}
+{"id": "q2", "category": "out_of_scope", "question": "Яка столиця Франції?", "gold_source": null, "gold_answer": "відмова"}
